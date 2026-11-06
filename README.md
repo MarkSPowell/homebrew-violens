@@ -5,7 +5,7 @@ HTTP and HTTPS traffic, a successor to Fiddler Classic. This tap installs
 its macOS app (Apple silicon, macOS 11 or later).
 
 ```
-brew install marksPowell/violens/violens
+brew install markspowell/violens/violens
 ```
 
 That installs `VioLens.app` in Applications, and `violens-exec`, the
